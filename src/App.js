@@ -1,10 +1,9 @@
 
-import './App.css';
 
 function App() {
   return (
-    <div className="App   underline">
-Helo world
+    <div className="text-3xl font-bold underline">
+Hello world
     </div>
   );
 }
